@@ -19,7 +19,7 @@ class SoccerApi {
   //Now let's add the headers.
   static const headers = {
     'x-rapidapi-host': 'v3.football.api-sports.io',
-    'x-rapidapi-key': "d90055d4df184b3a261cdf8920e95916"
+    'x-rapidapi-key': "Put your API key here!"
   };
 
   //Now we will create our method.SoccerApi
